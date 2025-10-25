@@ -16,8 +16,7 @@ const Suggestions= () => {
             key={item.id}
             title={item.title}
             description={item.Description}
-            img={item.img}
-            />
+            img={item.img}/>
             )
           })
         }
